@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ff">
+	<test name="t">
+		<classes>
+			<class name="shots.GmailBasedTest" />
+		</classes>
+	</test>
+</suite>

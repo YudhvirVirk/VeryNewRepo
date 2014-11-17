@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ff]">
+  <test name="t(failed)">
+    <classes>
+      <class name="shots.GmailBased">
+        <methods>
+          <include name="gmailOpreration"/>
+          <include name="beginn"/>
+          <include name="end"/>
+        </methods>
+      </class> <!-- shots.GmailBased -->
+    </classes>
+  </test> <!-- t(failed) -->
+</suite> <!-- Failed suite [ff] -->
