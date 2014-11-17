@@ -15,8 +15,6 @@ public class GmailBasedTest extends BaseClass{
 //	launchBrowser();
 //	}
 //	
-	@Parameter
-	private String st;
 	@Test
 	public void gmailOpreration(String st) throws Exception{
 //		driver.get("http://www.gmail.com");
@@ -41,7 +39,7 @@ public class GmailBasedTest extends BaseClass{
 //		
 //		
 //	
-		System.out.println("Doneeee"+st);
+		System.out.println("Doneeee");
 	}
 	
 	
